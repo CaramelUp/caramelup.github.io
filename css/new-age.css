@@ -263,6 +263,10 @@ section.contact {
         background-color: #2E2E2E; }
       section.contact ul.list-social li.social-github a:hover {
         background-color: #151515; }
+    section.contact ul.list-social li.social-instagram a {
+        background-color: #e60073; }
+    section.contact ul.list-social li.social-instagram a:hover {
+        background-color: #b30059; }
 
 
 footer {
